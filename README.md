@@ -1,7 +1,8 @@
 ### Hey there! 👋
 
 My name is **Gustavo Galupo**, and I'm from Brazil! 🇧🇷 <br>
-I'm a Manufacturing Engineer studying to become a **front-end developer**. 👦🏻 <br>
+I'm a Manufacturing Engineer studying hard to become a great **front-end developer**. 👦🏻
+<br>
 <br>
 What I like to work with:
 <div style="display: inline_block">
@@ -12,7 +13,8 @@ What I like to work with:
   <img align="center" alt="css-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
-<br>How to reach me:
+<br>
+How to reach me:
 <div>
   <br>
   <a href = "mailto: ggalupo2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
