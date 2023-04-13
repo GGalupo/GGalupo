@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
 My name is **Gustavo Galupo**, and I'm from Brazil! 🇧🇷 <br>
-I'm a **front-end developer**, studying hard to improve everyday. 👦🏻
+I'm a **front-end developer**, working hard to improve everyday. 👦🏻
 <br>
 <br>
 What I like to work with:
